@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.heead {
+  text-align: center;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.titl {
+  text-align: center;
+}
